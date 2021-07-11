@@ -2,14 +2,14 @@
 	"Token": "ur token",
 	"Prefix": ">",
 
-	"Channel-Names": ["lerker was here"], 
-	"Server-Names": ["beamed by lerker"],
-	"Role-Names": ["@lerkerbeamedyou"],
-	"Reason": ["beamed by lerker", "lerker beamed me"],
+	"Channel-Names": ["Oops!"], 
+	"Server-Names": ["Kira Claimed This"],
+	"Role-Names": ["@Victim"],
+	"Reason": ["Kira Found Me", "Kira Located You"],
 
 	"Spam": true,
 
-	"Webhook-Names": ["@lerkerbeamedyou", "get beamed by lerker retard"],
-	"Spam-Messages": ["@everyone LERKER WIZZED YOU", "@everyone LERKER  FUCKED YOUR SERVER"],
-	"Spam-Amount": 10000
+	"Webhook-Names": ["@BokuWaKira", "WizzedByKira"],
+	"Spam-Messages": ["@everyone Kira owns you now.", "@everyone Your server has been anal fucked,sorry."],
+	"Spam-Amount": 3000
 }
